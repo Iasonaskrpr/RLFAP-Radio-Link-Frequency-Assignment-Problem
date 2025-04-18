@@ -138,3 +138,6 @@ This dynamic approach improves efficiency by:
 - **Number of Conflicts** – Only tracked in Min-Conflicts.
 
 ---
+
+## Code citation
+  I use csp.py, search.py & utils.py from https://github.com/aimacode/aima-python.
